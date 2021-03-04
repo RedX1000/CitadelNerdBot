@@ -1,0 +1,11 @@
+Commands 
+======== 
+$help = Brings this message up 
+$hello = Says hello 
+$inspire = Gives an inspirational quote 
+$refresh = Refresh clan member list 
+$clanlist <order> = Displays full list of members 
+	- "id" or leave blank to sort by ID
+	- "alpha" for alphabetical order
+	- "rank" to sort by rank
+	- "citadel" to check who capped and visited
